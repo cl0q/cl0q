@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cl0q
+- 👀 I’m interested in cars, electronics (arduino, nodeMcu,...)
+- 🌱 I’m currently learning lua, C, java (at school)
+- 📫 How to reach me: just email me oliver@ilczuk.com
